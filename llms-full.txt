@@ -1,0 +1,49 @@
+# Geotechnik — Delmenhorst
+
+> Geotechnical engineering services in Delmenhorst, Deutschland.
+
+## Services
+- [Anker](https://delmenhorst.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://delmenhorst.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://delmenhorst.geotechnik.sbs/aushub/)
+- [Bodenplatten](https://delmenhorst.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://delmenhorst.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://delmenhorst.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://delmenhorst.geotechnik.sbs/cbr-strasse/)
+- [Erdbebenisolierung](https://delmenhorst.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://delmenhorst.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://delmenhorst.geotechnik.sbs/fundamente/)
+- [Geophysik](https://delmenhorst.geotechnik.sbs/geophysik/)
+- [Grundungen](https://delmenhorst.geotechnik.sbs/grundungen/)
+- [Hange](https://delmenhorst.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://delmenhorst.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://delmenhorst.geotechnik.sbs/injektionen/)
+- [Labor](https://delmenhorst.geotechnik.sbs/labor/)
+- [Labor In Situ](https://delmenhorst.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://delmenhorst.geotechnik.sbs/masw/)
+- [Pfahle](https://delmenhorst.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://delmenhorst.geotechnik.sbs/plattendruckversuch/)
+- [Ruttelverdichtung](https://delmenhorst.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://delmenhorst.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://delmenhorst.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://delmenhorst.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://delmenhorst.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://delmenhorst.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://delmenhorst.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://delmenhorst.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://delmenhorst.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://delmenhorst.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://delmenhorst.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://delmenhorst.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://delmenhorst.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://delmenhorst.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://delmenhorst.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://delmenhorst.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://delmenhorst.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://delmenhorst.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Delmenhorst, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
